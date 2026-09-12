@@ -150,16 +150,23 @@ The output should contain the required question identifier and generated answer 
 
 ## Appendix
 
-### Contributors / Team Members
+## 👥 Contributors
 
-* **[Name — Role]**
-* **[Name — Role]**
-* **[Name — Role]**
+
+## Team Lead : 
+* **Koubra Gaby**
+* **Abdoul Wahabou Kidakou**
+
+## Team Members
+* **Diatsa Segning Roosvelt**
+* **Fotso Goumkwa Carelle Grace**
+* **Ntui Raoul**
+* **Vitalis Ngam**
+* **Zamo Nkolo Alyssa Leonie**
 
 ### Mentors
 
-* **[Mentor Name]**
-* **[Mentor Name]**
+* **Samuel Taiwo**
 
 ---
 
