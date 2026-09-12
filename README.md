@@ -154,19 +154,19 @@ The output should contain the required question identifier and generated answer 
 
 
 ## Team Lead : 
-* **[![LinkedIn](https://shields.io)](https://linkedin.com)**
-* **Abdoul Wahabou Kidakou**
+* **[Koubra Gaby](https://www.linkedin.com/in/koubra-gaby-309a50250/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLdJNn61kRx%2BdMSCcKfNpJg%3D%3D)**
+* **[Abdoul Wahabou Kidakou](https://www.linkedin.com/in/abdoul-wahabou-kidakou-927486158/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BPYQYpU2rSNCjzoDkNEwXwA%3D%3D)**
 
 ## Team Members
-* **Diatsa Segning Roosvelt**
-* **Fotso Goumkwa Carelle Grace**
-* **Ntui Raoul**
-* **Vitalis Ngam**
-* **Zamo Nkolo Alyssa Leonie**
+* **[Diatsa Segning Roosvelt]**
+* **[Fotso Goumkwa Carelle Grace](https://www.linkedin.com/in/carelle-gr%C3%A2ce-fotso-goumkwa-0451713b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BbtOJ1RMkT%2FWg%2BVFApm3gmg%3D%3D)**
+* **[Ntui Raoul](https://www.linkedin.com/in/ntui-raoul/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BIAfp8yn2SJq5ibEyu2%2FxEQ%3D%3D)**
+* **[Vitalis Ngam](https://www.linkedin.com/in/ngam-vitalis/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BaQOmEFCYRbOyvB%2Bhe92vjg%3D%3D)**
+* **[Zamo Nkolo Alyssa Leonie]**
 
 ### Mentors
 
-* **Samuel Taiwo**
+* **[Samuel Taiwo](https://www.linkedin.com/in/samuel-taiwo-oladipupo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BK4cA7P8pRu%2BUPPtA95netQ%3D%3D)**
 
 ---
 
