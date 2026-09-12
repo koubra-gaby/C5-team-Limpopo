@@ -154,7 +154,7 @@ The output should contain the required question identifier and generated answer 
 
 
 ## Team Lead : 
-* **[Mon profil LinkedIn](https://linkedin.com)**
+* **[![LinkedIn](https://shields.io)](https://linkedin.com)**
 * **Abdoul Wahabou Kidakou**
 
 ## Team Members
