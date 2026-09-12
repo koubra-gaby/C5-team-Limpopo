@@ -154,7 +154,7 @@ The output should contain the required question identifier and generated answer 
 
 
 ## Team Lead : 
-* **Koubra Gaby**
+* **Koubra Gaby[https://www.linkedin.com/in/koubra-gaby-309a50250/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLdJNn61kRx%2BdMSCcKfNpJg%3D%3D]**
 * **Abdoul Wahabou Kidakou**
 
 ## Team Members
